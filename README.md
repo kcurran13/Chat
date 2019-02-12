@@ -1,2 +1,0 @@
-# Chattack
-Simple chat app
